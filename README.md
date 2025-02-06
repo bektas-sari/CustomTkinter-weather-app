@@ -1,4 +1,4 @@
-# 🌦️ CustomTkinter Weather App
+# 🌦️ CustomTkinter Weather App (without weather API Key)
 
 A modern and user-friendly weather application built using **Python** and **CustomTkinter**.
 
