@@ -37,6 +37,7 @@ Feel free to fork the repository and submit a pull request.
 This project is open-source and available under the MIT License.
 
 🎉 Author
+Bektaş SARI
 PhD in Advertising, AI + Creativity researcher<br>
 Flutter Developer & Software Educator<br>
 
